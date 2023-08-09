@@ -23,7 +23,7 @@ https://github.com/webdevkeenan/coding-journal/wiki
 
 + **JAVASCRIPT**
     
-    + [View Code](https://github.com/webdevkeenan/rockPaperScissors_Game)[newtab] | [Live Preview](https://webdevkeenan.github.io/rockPaperScissors_Game/)
+    + [View Code](https://github.com/webdevkeenan/rockPaperScissors_Game) | [Live Preview](https://webdevkeenan.github.io/rockPaperScissors_Game/)
   
 
 # 💻 Languages & Tools:
