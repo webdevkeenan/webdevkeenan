@@ -9,6 +9,8 @@ https://github.com/webdevkeenan/coding-journal/wiki
 # Skills:
 + **FLEXBOX**
     
+    + <a href="https://github.com/webdevkeenan/landing_page/" target="_blank> View Code</a>
+    +
     + [View Code](https://github.com/webdevkeenan/landing_page/)[newtab] | [Live Preview](https://webdevkeenan.github.io/landing_page/)
 
 + **CSS GRID** - *[In Progress]*
