@@ -11,15 +11,15 @@ https://github.com/webdevkeenan/coding-journal/wiki
     
     + [View Code](https://github.com/webdevkeenan/landing_pag) | [Live Preview](https://webdevkeenan.github.io/landing_page/)
 
-+ CSS GRID- In Progress
++ CSS GRID - [In Progress]
     
     + [View Code]() | [Live Preview]()
 
-+ Forms
++ FORMS
     
     + [View Code](https://github.com/webdevkeenan/survey_form) | [Live Preview](https://webdevkeenan.github.io/survey_form/)
 
-+ Javascript
++ JAVASCRIPT
     
     + [View Code](https://github.com/webdevkeenan/rockPaperScissors_Game) | [Live Preview](https://webdevkeenan.github.io/rockPaperScissors_Game/)
   
