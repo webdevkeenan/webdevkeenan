@@ -8,7 +8,7 @@
 # Daily Coding Journal
 https://github.com/webdevkeenan/coding-journal/wiki
 
-## Portfolio
+# Portfolio
 https://webdevkeenan.netlify.app/ *[Not Final]*
 
 
