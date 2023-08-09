@@ -17,11 +17,11 @@ https://github.com/webdevkeenan/coding-journal/wiki
 
 + [Forms](https://github.com/webdevkeenan/survey_form)
     
-    + [View Code]() | [Live Preview]()
+    + [View Code](https://github.com/webdevkeenan/survey_form) | [Live Preview](https://webdevkeenan.github.io/survey_form/)
 
 + [Javascript](https://github.com/webdevkeenan/rockPaperScissors_Game)
     
-    + [View Code]() | [Live Preview]()
+    + [View Code](https://github.com/webdevkeenan/rockPaperScissors_Game) | [Live Preview](https://webdevkeenan.github.io/rockPaperScissors_Game/)
   
 
 # 💻 Languages & Tools:
