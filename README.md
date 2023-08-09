@@ -6,7 +6,7 @@
 # Daily Coding Journal
 https://github.com/webdevkeenan/coding-journal/wiki
 
-## Skills:
+# Skills:
 + **FLEXBOX**
     
     + [View Code](https://github.com/webdevkeenan/landing_page/) | [Live Preview](https://webdevkeenan.github.io/landing_page/)
