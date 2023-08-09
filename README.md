@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm
 
+![Screenshot from 2023-07-29 21-47-59](https://github.com/webdevkeenan/webdevkeenan/assets/42125735/b3ab6765-cde2-4e86-a609-a2e12d9c1c74)
 
-![1500x500](https://github.com/webdevkeenan/webdevkeenan/assets/42125735/21c3a200-d3eb-474e-afcf-07b3ca683188)
 
 # Daily Coding Journal
 https://github.com/webdevkeenan/coding-journal/wiki
