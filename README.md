@@ -9,7 +9,7 @@ https://github.com/webdevkeenan/coding-journal/wiki
 ## Examples Of My Skills:
 + **FLEXBOX**
     
-    + [View Code](https://github.com/webdevkeenan/landing_pag) | [Live Preview](https://webdevkeenan.github.io/landing_page/)
+    + [View Code](https://github.com/webdevkeenan/landing_page/) | [Live Preview](https://webdevkeenan.github.io/landing_page/)
 
 + **CSS GRID** - *[In Progress]*
     
