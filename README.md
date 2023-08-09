@@ -8,6 +8,7 @@ https://github.com/webdevkeenan/coding-journal/wiki
 
 ## Examples Of My Skills:
 + [FLEXBOX](https://github.com/webdevkeenan/landing_page)
++ + [View Code]
 + [CSS GRID](https://github.com/webdevkeenan/product_landing-page) - In Progress
 + [Forms](https://github.com/webdevkeenan/survey_form)
 + [Javascript](https://github.com/webdevkeenan/rockPaperScissors_Game)
