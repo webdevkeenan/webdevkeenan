@@ -1,7 +1,9 @@
 ![Screenshot from 2023-07-29 21-47-59](https://github.com/webdevkeenan/webdevkeenan/assets/42125735/b3ab6765-cde2-4e86-a609-a2e12d9c1c74)
 
- ### Hi there 👋 <br>
- Use CTRL + Left Click to open links in a new tab!
+ ### Hi there 👋😁 <br>
+ ```
+ Use CTRL + Left Click to open the links in a new tab!
+```
 
 # Daily Coding Journal
 https://github.com/webdevkeenan/coding-journal/wiki
