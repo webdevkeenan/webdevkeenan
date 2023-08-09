@@ -13,7 +13,7 @@ https://github.com/webdevkeenan/coding-journal/wiki
 
 + **CSS GRID** - *[In Progress]*
     
-    + [View Code]() | [Live Preview]()
+    + [View Code](https://github.com/webdevkeenan/product_landing-page) | [Live Preview]
 
 + **FORMS**
     
