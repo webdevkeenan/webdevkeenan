@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+
+![1500x500](https://github.com/webdevkeenan/webdevkeenan/assets/42125735/21c3a200-d3eb-474e-afcf-07b3ca683188)
+
+# Daily Coding Journal
+https://github.com/webdevkeenan/coding-journal/wiki
+
+## Examples Of My Skills:
++ [FLEXBOX](https://github.com/webdevkeenan/landing_page)
++ [CSS GRID](https://github.com/webdevkeenan/product_landing-page) - In Progress
++ [Forms](https://github.com/webdevkeenan/survey_form)
++ [Javascript](https://github.com/webdevkeenan/rockPaperScissors_Game)
+  
+
+# 💻 Languages & Tools:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
 <!--
 **webdevkeenan/webdevkeenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
