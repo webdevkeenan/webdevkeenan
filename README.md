@@ -11,7 +11,7 @@ https://github.com/webdevkeenan/coding-journal/wiki
     
     + [View Code](https://github.com/webdevkeenan/landing_pag) | [Live Preview](https://webdevkeenan.github.io/landing_page/)
 
-+ CSS GRID - [In Progress]
++ CSS GRID - **[In Progress]**
     
     + [View Code]() | [Live Preview]()
 
