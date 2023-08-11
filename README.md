@@ -1,7 +1,6 @@
 ![Screenshot from 2023-07-29 21-47-59](https://github.com/webdevkeenan/webdevkeenan/assets/42125735/b3ab6765-cde2-4e86-a609-a2e12d9c1c74)
 
  ### Hi there 👋😁 <br>
- ### Email Me @: 📧 webdevkeenan@gmail.com
 
  ```
  Use CTRL + Left Click to open the links in a new tab!
@@ -34,6 +33,8 @@ https://webdevkeenan.netlify.app/ *[Not Final]*
 
 # 💻 Languages & Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+ ### Email Me @: 📧 webdevkeenan@gmail.com
 
 [<img src="https://github.com/webdevkeenan/webdevkeenan/assets/42125735/dd9d26fe-524a-402e-8369-5c2cf4ffab84" width="500"/>](onlywayisup.png)
 <!-- ![nick-fewings-HU-xiyQ-4Oo-unsplash](https://github.com/webdevkeenan/webdevkeenan/assets/42125735/dd9d26fe-524a-402e-8369-5c2cf4ffab84){width: 400px;} -->
