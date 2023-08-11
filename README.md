@@ -1,6 +1,8 @@
 ![Screenshot from 2023-07-29 21-47-59](https://github.com/webdevkeenan/webdevkeenan/assets/42125735/b3ab6765-cde2-4e86-a609-a2e12d9c1c74)
 
  ### Hi there 👋😁 <br>
+ ### Email Me @: 📧 webdevkeenan@gmail.com
+
  ```
  Use CTRL + Left Click to open the links in a new tab!
 ```
@@ -41,7 +43,6 @@ https://webdevkeenan.netlify.app/ *[Not Final]*
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-### Email Me @: 📧 webdevkeenan@gmail.com
 <!--
 **webdevkeenan/webdevkeenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
