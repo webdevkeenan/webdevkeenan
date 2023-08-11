@@ -39,10 +39,10 @@ https://webdevkeenan.netlify.app/ *[Not Final]*
 [<img src="https://github.com/webdevkeenan/webdevkeenan/assets/42125735/dd9d26fe-524a-402e-8369-5c2cf4ffab84" width="500"/>](onlywayisup.png)
 <!-- ![nick-fewings-HU-xiyQ-4Oo-unsplash](https://github.com/webdevkeenan/webdevkeenan/assets/42125735/dd9d26fe-524a-402e-8369-5c2cf4ffab84){width: 400px;} -->
 
-
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+-->
 
 <!--
 **webdevkeenan/webdevkeenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
