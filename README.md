@@ -13,7 +13,8 @@ https://webdevkeenan.netlify.app/ *[Not Final]*
 
 # Skills:
 + **FLEXBOX**
-    
+  ![7whqi3](https://github.com/webdevkeenan/webdevkeenan/assets/42125735/736c13b9-c89f-4706-a49d-b14984f38c26)
+
     + [View Code](https://github.com/webdevkeenan/landing_page/) | [Live Preview](https://webdevkeenan.github.io/landing_page/)
 
 + **CSS GRID** - *[In Progress]*
