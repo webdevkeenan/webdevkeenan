@@ -20,14 +20,12 @@ https://webdevkeenan.netlify.app/ *[Not Final]*
     + [View Code](https://github.com/webdevkeenan/product_landing-page) | [Live Preview]
 
 + **FORMS**
-    
     + [View Code](https://github.com/webdevkeenan/survey_form) | [Live Preview](https://webdevkeenan.github.io/survey_form/)
 
 + **JAVASCRIPT**
-    
     + [View Code](https://github.com/webdevkeenan/rockPaperScissors_Game) | [Live Preview](https://webdevkeenan.github.io/rockPaperScissors_Game/)
 
-+ **Scratch**
++ **SCRATCH**
     + [View Code](https://scratch.mit.edu/projects/885358493/editor/) | [Live Preview](https://scratch.mit.edu/projects/885358493/)
 
 # 💻 Languages & Tools:
