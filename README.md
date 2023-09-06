@@ -15,9 +15,9 @@ https://webdevkeenan.netlify.app/ *[Not Final]*
 + **FLEXBOX**
     + [View Code](https://github.com/webdevkeenan/landing_page/) | [Live Preview](https://webdevkeenan.github.io/landing_page/)
 
-+ **CSS GRID** - *[In Progress]*
++ **CSS GRID** 
     
-    + [View Code](https://github.com/webdevkeenan/product_landing-page) | [Live Preview]
+    + [View Code](https://github.com/webdevkeenan/product_landing-page) | [Live Preview](https://webdevkeenan.github.io/product_landing-page/)
 
 + **FORMS**
     + [View Code](https://github.com/webdevkeenan/survey_form) | [Live Preview](https://webdevkeenan.github.io/survey_form/)
