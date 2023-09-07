@@ -8,7 +8,8 @@
 https://github.com/webdevkeenan/coding-journal/wiki
 
 # Portfolio
-https://webdevkeenan.netlify.app/ *[Not Final]*
+https://webdevkeenan.github.io/portfolio/
+<!-- https://webdevkeenan.netlify.app/ *[Not Final]* -->
 
 
 # Skills:
