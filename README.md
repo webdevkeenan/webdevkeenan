@@ -9,6 +9,9 @@
 # Daily Coding Journal
 https://github.com/webdevkeenan/coding-journal/wiki
 
+# Study Journal
+https://github.com/webdevkeenan/study-journal/wiki
+
 # Portfolio
 https://webdevkeenan.github.io/portfolio/
 <!-- https://webdevkeenan.netlify.app/ *[Not Final]* -->
