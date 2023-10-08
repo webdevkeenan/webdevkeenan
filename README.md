@@ -89,7 +89,7 @@ https://webdevkeenan.github.io/portfolio/
 <!-- ![galaxy-cat](https://github.com/webdevkeenan/webdevkeenan/assets/42125735/8aa87390-0a2c-4817-89a2-7afa5bd18752) -->
 <!-- <img src="https://github.com/webdevkeenan/webdevkeenan/assets/42125735/8aa87390-0a2c-4817-89a2-7afa5bd18752" width="500" /> -->
 
-## Thank You Lea and Dr. Thorne
+## Thank You  Paola, Dr. Throne, and Lea
 
 [<img src="https://github.com/webdevkeenan/webdevkeenan/assets/42125735/dd9d26fe-524a-402e-8369-5c2cf4ffab84" width="500"/>](onlywayisup.png)
 <!-- ![nick-fewings-HU-xiyQ-4Oo-unsplash](https://github.com/webdevkeenan/webdevkeenan/assets/42125735/dd9d26fe-524a-402e-8369-5c2cf4ffab84){width: 400px;} -->
