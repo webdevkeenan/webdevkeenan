@@ -5,7 +5,7 @@
 
 
  # Hi there. My name is Keenan.  👋😁 
-I choose to get the job done and I never give up.<br>
+I choose to get the job done. I never give up.<br>
  
  ### Use CTRL + Left Click to open the links in a new tab!
 
