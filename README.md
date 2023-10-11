@@ -5,8 +5,6 @@
 
 
  ### Hi there 👋😁 <br>
-
-# My name is Keenan. I don't give up.  
  
  ### Use CTRL + Left Click to open the links in a new tab!
 
