@@ -4,7 +4,8 @@
 ![Screenshot from 2023-10-05 04-28-07](https://github.com/webdevkeenan/webdevkeenan/assets/42125735/633d55e9-f701-4ffb-9a70-cdf19d23304d)
 
 
- # Hi there. My name is Keenan. I choose to get the job done and I don't ever quit. 👋😁 <br>
+ # Hi there. My name is Keenan. 
+I choose to get the job done and I don't ever quit. 👋😁 <br>
  
  ### Use CTRL + Left Click to open the links in a new tab!
 
