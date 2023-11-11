@@ -96,7 +96,6 @@ https://webdevkeenan.github.io/portfolio/
 
 [<img src="https://github.com/webdevkeenan/webdevkeenan/assets/42125735/dd9d26fe-524a-402e-8369-5c2cf4ffab84" width="500"/>](onlywayisup.png)
 
-## Thank You Paola.
 <!-- ![nick-fewings-HU-xiyQ-4Oo-unsplash](https://github.com/webdevkeenan/webdevkeenan/assets/42125735/dd9d26fe-524a-402e-8369-5c2cf4ffab84){width: 400px;} -->
 
 <!--
