@@ -12,12 +12,12 @@ I choose to get the job done. I never give up.<br>
  ### Use CTRL + Left Click to open the links in a new tab!
 
 
-# Daily Coding Journal
+<!-- # Daily Coding Journal
 https://github.com/webdevkeenan/coding-journal/wiki
 
 # Study Journal
 https://github.com/webdevkeenan/study-journal/wiki
-
+-->
 # Portfolio
 https://webdevkeenan.github.io/portfolio/
 <!-- https://webdevkeenan.netlify.app/ *[Not Final]* -->
