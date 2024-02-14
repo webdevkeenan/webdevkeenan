@@ -88,7 +88,7 @@ https://webdevkeenan.github.io/portfolio/
 <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"> 
 </p>
 
- ## ✍️ Write Me @: webdevkeenan@gmail.com 📧 
+ <!-- ## ✍️ Write Me @: webdevkeenan@gmail.com 📧 -->
 
 <!-- ![galaxy-cat](https://github.com/webdevkeenan/webdevkeenan/assets/42125735/8aa87390-0a2c-4817-89a2-7afa5bd18752) -->
 <!-- <img src="https://github.com/webdevkeenan/webdevkeenan/assets/42125735/8aa87390-0a2c-4817-89a2-7afa5bd18752" width="500" /> -->
