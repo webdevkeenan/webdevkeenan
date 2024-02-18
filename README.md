@@ -93,7 +93,8 @@ https://webdevkeenan.github.io/portfolio/
 <!-- ![galaxy-cat](https://github.com/webdevkeenan/webdevkeenan/assets/42125735/8aa87390-0a2c-4817-89a2-7afa5bd18752) -->
 <!-- <img src="https://github.com/webdevkeenan/webdevkeenan/assets/42125735/8aa87390-0a2c-4817-89a2-7afa5bd18752" width="500" /> -->
 
-### I'm going to make you proud my Shadow. I will become a software engineer. R.I.P. [February 4th, 2022]
+### I'm going to make you proud my Shadow. I will become a software engineer.
+R.I.P. [February 4th, 2022]
 
 https://webdevkeenan.github.io/shadow_tribute/
 
