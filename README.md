@@ -97,7 +97,7 @@ https://webdevkeenan.github.io/portfolio/
 
 https://webdevkeenan.github.io/shadow_tribute/
 
-### I'm going to make you proud my Shadow. 
+### I'm going to make you proud my Shadow. 🐕
 ### I will become a software engineer.
 R.I.P. [February 4th, 2022]
 
