@@ -9,7 +9,7 @@
  # Hi there. My name is Keenan.  👋😁 
 
  No matter what happens... 
- ### I will NEVER give up.😁👍
+ ### I NEVER give up.😁👍
 
  [<img src="https://github.com/webdevkeenan/webdevkeenan/assets/42125735/dd9d26fe-524a-402e-8369-5c2cf4ffab84" width="500"/>](onlywayisup.png)
 
